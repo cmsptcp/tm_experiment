@@ -1,0 +1,150 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /robots.txt HTTP/1.1" 200 170
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /robots.txt HTTP/1.1" 200 170
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33566
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /robots.txt HTTP/1.1" 200 170
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33496
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33479
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33479
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33492
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33472
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33472
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33470
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33468
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33468
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33485
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33471
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33484
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33466
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33468
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33468
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33471
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33471
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33468
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33454
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33454
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33472
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33472
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33469
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33469
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33490
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33490
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33496
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33487
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 33487
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 34129
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 34401
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 34396
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 34413
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 34413
+INFO:root:scrap_article_text_trojmiasto:
+INFO:root:article link to scrap: https://www.trojmiasto.pl/wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.trojmiasto.pl:443
+DEBUG:urllib3.connectionpool:https://www.trojmiasto.pl:443 "GET /wiadomosci/Ponad-60-mln-zl-za-parking-podziemny-w-centrum-Gdyni-n163409.html HTTP/1.1" 200 34398
